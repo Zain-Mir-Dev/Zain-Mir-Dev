@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I’m Zain 👋
 
-<!--
-**Zain-Mir-Dev/Zain-Mir-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer interested in:
+- Game systems & mechanics
+- Web tools and APIs
+- Clean, maintainable code
 
-Here are some ideas to get you started:
+Tech:
+TypeScript, Python, C++, Flask, React, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Workflow:
+Git, Jira, Figma, Tailwind
+
+I enjoy game design and development as a personal hobby, while focusing professionally on software engineering and systems development.
